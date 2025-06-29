@@ -78,7 +78,7 @@ public class AdminLoginActivity extends AppCompatActivity {
     // Replace this method with your actual authentication logic
     private boolean isAdminCredentialsValid(String username, String password) {
         // Add your authentication logic here (e.g., check against a predefined admin username and password)
-        return username.equals("vuchau") && password.equals("2910");
+        return username.equals("thanhnguyen") && password.equals("0312");
 
     }
 }
